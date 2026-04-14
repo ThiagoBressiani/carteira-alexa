@@ -1,0 +1,9 @@
+[
+  {"ticker": "BBAS3.SA", "nome": "Banco do Brasil"},
+  {"ticker": "EGIE3.SA", "nome": "Engie Brasil"},
+  {"ticker": "ITSA4.SA", "nome": "Itaúsa"},
+  {"ticker": "VALE3.SA", "nome": "Vale"},
+  {"ticker": "WEGE3.SA", "nome": "WEG"},
+  {"ticker": "GOOGL", "nome": "Google"},
+  {"ticker": "IVV", "nome": "ETF S&P 500"}
+]
