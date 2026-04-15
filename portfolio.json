@@ -1,9 +1,14 @@
 [
-  {"ticker": "BBAS3.SA", "nome": "Banco do Brasil"},
-  {"ticker": "EGIE3.SA", "nome": "Engie Brasil"},
-  {"ticker": "ITSA4.SA", "nome": "Itaúsa"},
-  {"ticker": "VALE3.SA", "nome": "Vale"},
-  {"ticker": "WEGE3.SA", "nome": "WEG"},
+  {"ticker": "BBAS3", "nome": "Banco do Brasil"},
+  {"ticker": "VALE3", "nome": "Vale"},
+  {"ticker": "WEGE3", "nome": "WEG"},
+  {"ticker": "ITSA4", "nome": "Itaúsa"},
+  {"ticker": "HGLG11", "nome": "CSHG Logística"},
+  {"ticker": "KNCR11", "nome": "Kinea CRI"},
+  {"ticker": "XPML11", "nome": "XP Malls"},
   {"ticker": "GOOGL", "nome": "Google"},
-  {"ticker": "IVV", "nome": "ETF S&P 500"}
+  {"ticker": "IVV", "nome": "ETF S&P 500"},
+  {"ticker": "VNQ", "nome": "ETF Imobiliário EUA"},
+  {"ticker": "SOFI", "nome": "SoFi"},
+  {"ticker": "VICI", "nome": "VICI Properties"}
 ]
